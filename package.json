@@ -1,0 +1,29 @@
+{
+  "name": "full-stack-engineering-test",
+  "version": "1.0.0",
+  "description": "Part 1: Overview and Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor-dimalanta/full-stack-engineering-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktor-dimalanta/full-stack-engineering-test/issues"
+  },
+  "homepage": "https://github.com/viktor-dimalanta/full-stack-engineering-test#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1"
+  }
+}
