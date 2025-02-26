@@ -1,5 +1,8 @@
 # E-commerce PWA App
 
+![image](https://github.com/user-attachments/assets/572287b3-643a-4240-b12d-102f9d079aa4)
+
+
 ## Description
 Progressive Web Application (PWA) that functions as an e-commerce marketplace
 
