@@ -9,7 +9,7 @@ Progressive Web Application (PWA) that functions as an e-commerce marketplace
 ## Features
 - ✅ include key features for both customers and merchants, with a
 - ✅ focus on performance and user experience  
-- ✅ Feature 3  
+- ✅ Ecommerce crud
 
 ## Installation
 Follow these steps to install and set up the project:
